@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RssTravels/static/css/main.f855e6bc.css",
-    "main.js": "/RssTravels/static/js/main.3327ce16.js",
+    "main.js": "/RssTravels/static/js/main.a56992d2.js",
     "static/js/453.65f547c0.chunk.js": "/RssTravels/static/js/453.65f547c0.chunk.js",
     "index.html": "/RssTravels/index.html",
     "main.f855e6bc.css.map": "/RssTravels/static/css/main.f855e6bc.css.map",
-    "main.3327ce16.js.map": "/RssTravels/static/js/main.3327ce16.js.map",
+    "main.a56992d2.js.map": "/RssTravels/static/js/main.a56992d2.js.map",
     "453.65f547c0.chunk.js.map": "/RssTravels/static/js/453.65f547c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.3327ce16.js"
+    "static/js/main.a56992d2.js"
   ]
 }

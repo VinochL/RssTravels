@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VinochL/RssTravels/static/css/main.f855e6bc.css",
-    "main.js": "/VinochL/RssTravels/static/js/main.adc92077.js",
-    "static/js/453.65f547c0.chunk.js": "/VinochL/RssTravels/static/js/453.65f547c0.chunk.js",
-    "index.html": "/VinochL/RssTravels/index.html",
-    "main.f855e6bc.css.map": "/VinochL/RssTravels/static/css/main.f855e6bc.css.map",
-    "main.adc92077.js.map": "/VinochL/RssTravels/static/js/main.adc92077.js.map",
-    "453.65f547c0.chunk.js.map": "/VinochL/RssTravels/static/js/453.65f547c0.chunk.js.map"
+    "main.css": "/RssTravels/static/css/main.f855e6bc.css",
+    "main.js": "/RssTravels/static/js/main.3327ce16.js",
+    "static/js/453.65f547c0.chunk.js": "/RssTravels/static/js/453.65f547c0.chunk.js",
+    "index.html": "/RssTravels/index.html",
+    "main.f855e6bc.css.map": "/RssTravels/static/css/main.f855e6bc.css.map",
+    "main.3327ce16.js.map": "/RssTravels/static/js/main.3327ce16.js.map",
+    "453.65f547c0.chunk.js.map": "/RssTravels/static/js/453.65f547c0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.adc92077.js"
+    "static/js/main.3327ce16.js"
   ]
 }
